@@ -22,11 +22,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tharun0102&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-<p align="center">
-<a href="https://linkedin.com/in/"><img src=""/></a>
-<a href="mailto:"><img src=""/></a>
-<a href="https://instagram.com/"><img src=""/></a>
-</p>
-
