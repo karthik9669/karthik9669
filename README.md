@@ -11,13 +11,7 @@
 </p>
 
 
-## About me:
-- :school: I am a pre-final year Computer Science Engineering student at NIT Agartala.
-- :computer: I've also worked as a Frontend Intern at InterviewVector where we utilized React.js for the frontend, Links - [Certificate](https://drive.google.com/file/d/1sLbYxhV55XKUH5_LII-xHSIupPEVPVop/view?usp=sharing)
-- :student: I’m currently Working with `React/Redux` , `NextJS` , `NodeJS/Express` , `TailwindCSS`.
-- :nerd_face: Always `learning new things`
 
-<br>
 
 
 
