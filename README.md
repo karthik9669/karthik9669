@@ -21,18 +21,18 @@
 
 
 
-## 💻 GitHub Profile Stats
+<<-- ## 💻 GitHub Profile Stats
   <p align="center">
-<a href="https://github.com/Tharun0102">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharun0102&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/karthik9669">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karthik9669&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tharun0102&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 
 <p align="center">
-<a href="https://linkedin.com/in/Tharun0102"><img src="https://img.shields.io/badge/-Tharun%20Chowdary-blue?style=flat&logo=Linkedin&logoColor=white""/></a>
-<a href="mailto:rallapallitharun14@gmail.com"><img src="https://img.shields.io/badge/-Tharun%20Chowdary-red?style=flat&logo=Gmail&logoColor=white""/></a>
-<a href="https://instagram.com/tharunchowdary112"><img src="https://img.shields.io/badge/-%40tharunchowdary112-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+<a href="https://linkedin.com/in/"><img src=""/></a>
+<a href="mailto:"><img src=""/></a>
+<a href="https://instagram.com/"><img src=""/></a>
+</p> -- >>
 
